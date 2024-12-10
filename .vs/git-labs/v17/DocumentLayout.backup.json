@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andrei\\Desktop\\GIT\\",
+  "WorkspaceRootPath": "C:\\Users\\andrei\\Desktop\\git-labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andrei\\Desktop\\GIT\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andrei\\Desktop\\git-labs\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TextFile1.txt",
-              "DocumentMoniker": "C:\\Users\\andrei\\Desktop\\GIT\\TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\andrei\\Desktop\\git-labs\\TextFile1.txt",
               "RelativeDocumentMoniker": "TextFile1.txt",
-              "ToolTip": "C:\\Users\\andrei\\Desktop\\GIT\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\andrei\\Desktop\\git-labs\\TextFile1.txt",
               "RelativeToolTip": "TextFile1.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-03T17:29:44.429Z",
+              "WhenOpened": "2024-12-03T17:46:08.997Z",
               "EditorCaption": ""
             }
           ]
