@@ -1,0 +1,15 @@
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.AssemblyInfoInputs.cache
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.AssemblyInfo.cs
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.csproj.CoreCompileInputs.cache
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.sourcelink.json
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\bin\Debug\net8.0\Лабараторная1.exe
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\bin\Debug\net8.0\Лабараторная1.deps.json
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\bin\Debug\net8.0\Лабараторная1.runtimeconfig.json
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\bin\Debug\net8.0\Лабараторная1.dll
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\bin\Debug\net8.0\Лабараторная1.pdb
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.dll
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\refint\Лабараторная1.dll
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.pdb
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\Лабараторная1.genruntimeconfig.cache
+C:\Users\andrei\Desktop\git-labs\Лабараторная1\obj\Debug\net8.0\ref\Лабараторная1.dll
